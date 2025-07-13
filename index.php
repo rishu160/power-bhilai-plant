@@ -146,7 +146,7 @@
       <div class="row">
         <div class="col-sm-6 col-md-6">
           <h2 class="section-heading">ABOUT US</h2>
-          <h1 class="jumbolead reset-section-heading">Powering India's Energy Future.rishu kumar </h1>
+          <h1 class="jumbolead reset-section-heading">Powering India's Energy Future </h1>
           <p>Bihali Power Plant is a state-of-the-art thermal power generation facility committed to providing reliable and sustainable energy solutions across India. With cutting-edge technology and environmental compliance, we deliver consistent power supply to meet the growing energy demands of our nation.</p>
         </div>
         <div class="col-sm-6 col-md-6">
