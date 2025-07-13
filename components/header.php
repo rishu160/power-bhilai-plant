@@ -103,7 +103,7 @@
               <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="index.php">
-              <img src="images/logo1.png" alt="Finanzi Logo" style="height: 60px; width: auto;" />
+              <img src="images/pic1.png" alt="Finanzi Logo" style="height: 60px; width: auto;" />
             </a>
           </div>
 
@@ -114,7 +114,6 @@
   <li><a href="about.php">About Us</a></li>
   <li><a href="department.php">Department</a></li>
   <li><a href="safety-guideline.php">Safety Guideline</a></li>
-  <li><a href="training.php">Training</a></li>
   <li><a href="virtual-gallery.php">Virtual Gallery</a></li>
   <li><a href="contact.php">Contact</a></li>
   <li><a href="feedback.php">Feedback</a></li>

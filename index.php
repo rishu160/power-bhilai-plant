@@ -17,6 +17,38 @@
   <link rel="stylesheet" type="text/css" href="css/vendor/bootstrap-dropdownhover.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css" />
   <script type="text/javascript" src="js/vendor/modernizr.min.js"></script>
+
+<style>
+
+
+  html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.section.banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.slides-container li {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  list-style: none;
+}
+
+.slides-container li img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+</style>
+
 </head>
 
 <body>
@@ -28,7 +60,9 @@
   <div id="slides" class="section banner">
     <ul class="slides-container">
       <li>
-        <img src="images/hero-1.jpg" alt="">
+       <img src="images/bhilai.webp" alt="" >
+
+
         <div class="overlay-bg"></div>
         <div class="container">
           <div class="wrap-caption center">
@@ -112,7 +146,7 @@
       <div class="row">
         <div class="col-sm-6 col-md-6">
           <h2 class="section-heading">ABOUT US</h2>
-          <h1 class="jumbolead reset-section-heading">Powering India's Energy Future</h1>
+          <h1 class="jumbolead reset-section-heading">Powering India's Energy Future.rishu kumar </h1>
           <p>Bihali Power Plant is a state-of-the-art thermal power generation facility committed to providing reliable and sustainable energy solutions across India. With cutting-edge technology and environmental compliance, we deliver consistent power supply to meet the growing energy demands of our nation.</p>
         </div>
         <div class="col-sm-6 col-md-6">
